@@ -1,0 +1,15 @@
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\bin\Debug\net7.0\Mypractice.exe
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\bin\Debug\net7.0\Mypractice.deps.json
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\bin\Debug\net7.0\Mypractice.runtimeconfig.json
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\bin\Debug\net7.0\Mypractice.dll
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\bin\Debug\net7.0\Mypractice.pdb
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\Mypractice.csproj.AssemblyReference.cache
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\Mypractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\Mypractice.AssemblyInfoInputs.cache
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\Mypractice.AssemblyInfo.cs
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\Mypractice.csproj.CoreCompileInputs.cache
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\Mypractice.dll
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\refint\Mypractice.dll
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\Mypractice.pdb
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\Mypractice.genruntimeconfig.cache
+C:\Users\rsmit\OneDrive\Desktop\repos\HelloWorld\Mypractice\obj\Debug\net7.0\ref\Mypractice.dll
